@@ -1,0 +1,13 @@
+<!DOCTYPE=html>
+
+<head>
+About the team
+</head>
+<style>
+input{
+background: red;
+}
+</style>
+<p> We are based in ucl </p>
+
+<input> email</input>
